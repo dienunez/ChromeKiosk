@@ -1,0 +1,7 @@
+D:\OneDrive - Banco de Galicia Y Buenos Aires S.A\Documentos\Visual Studio Projects\ChromeKiosk\ChromeKiosk\bin\Debug\ChromeKiosk.exe.config
+D:\OneDrive - Banco de Galicia Y Buenos Aires S.A\Documentos\Visual Studio Projects\ChromeKiosk\ChromeKiosk\bin\Debug\ChromeKiosk.exe
+D:\OneDrive - Banco de Galicia Y Buenos Aires S.A\Documentos\Visual Studio Projects\ChromeKiosk\ChromeKiosk\bin\Debug\ChromeKiosk.pdb
+D:\OneDrive - Banco de Galicia Y Buenos Aires S.A\Documentos\Visual Studio Projects\ChromeKiosk\ChromeKiosk\obj\Debug\ChromeKiosk.csprojAssemblyReference.cache
+D:\OneDrive - Banco de Galicia Y Buenos Aires S.A\Documentos\Visual Studio Projects\ChromeKiosk\ChromeKiosk\obj\Debug\ChromeKiosk.csproj.CoreCompileInputs.cache
+D:\OneDrive - Banco de Galicia Y Buenos Aires S.A\Documentos\Visual Studio Projects\ChromeKiosk\ChromeKiosk\obj\Debug\ChromeKiosk.exe
+D:\OneDrive - Banco de Galicia Y Buenos Aires S.A\Documentos\Visual Studio Projects\ChromeKiosk\ChromeKiosk\obj\Debug\ChromeKiosk.pdb
